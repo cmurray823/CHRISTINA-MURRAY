@@ -1,5 +1,5 @@
 # CHRISTINA MURRAY
-Coding with a business and scientific focus.
+Coding with a business and biology focus.
 Make prioritizaton easy. Make better decisions. 
 
 |Year|Code                                                |Status|
